@@ -1,5 +1,5 @@
 # ShareChecker
-A Simple Script to Check Market Share Values using Yahoo! Finance
+A Simple Script to check Stock Market Share values using Yahoo! Finance
 
 Just experimenting with checking Market Share values...
 - What can I find for free.
